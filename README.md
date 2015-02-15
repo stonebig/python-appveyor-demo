@@ -1,4 +1,4 @@
-python-appveyor-demo (re-re-testing)
+python-appveyor-demo (re re-testing)
 ====================
 
 Demo project for building Windows [Python wheels](http://pythonwheels.com/)
